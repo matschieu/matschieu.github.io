@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+    max-width: 70rem;
+}
+	
+.page-header {
+	color: #fff;
+	text-align: center;
+	background-color: #5691cd;
+	background-image: linear-gradient(120deg, #155799, #5691cd);
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: #5691cd;
+}
